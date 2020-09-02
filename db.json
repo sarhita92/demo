@@ -1,4 +1,4 @@
-{"data":[
+
    {
       "cardId":230,
       "nickname":"Alice24",
@@ -7,25 +7,4 @@
       "points":8,
       "status":"Scratched",
       "lastUpdate":"2020-08-24T13:14:41.719+0200"
-   },
-   {
-      "cardId":231,
-      "nickname":"Alice24",
-      "leaderboardId":108,
-      "classOfCards":"bronze",
-      "points":1,
-      "status":"Scratched",
-      "lastUpdate":"2020-08-24T13:36:21.625+0200"
-   },
-   {
-      "cardId":234,
-      "nickname":"Alice24",
-      "leaderboardId":108,
-      "classOfCards":"bronze",
-      "points":9,
-      "status":"Scratched",
-      "lastUpdate":"2020-08-24T14:10:02.834+0200"
    }
-]
-   
-}
